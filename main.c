@@ -10,7 +10,7 @@ int main()
   
     printf("you INPUT %d",a);
 */
-  printf("this is from new branch\n");
+  printf("this is from master\n");
 
 
     return 0;
