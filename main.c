@@ -10,8 +10,13 @@ int main()
   
     printf("you INPUT %d",a);
 */
+<<<<<<< HEAD
   printf("this is from master\n");
 
+=======
+  printf("this is nothing new \n");
+    printf("this is from new branch2_____conflict22 \n");
+>>>>>>> newbranch2
 
     return 0;
 }
